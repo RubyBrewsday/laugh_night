@@ -1,0 +1,15 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: laugh_night_development
+  pool: 8
+  username:
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: laught_night_test
+  pool: 8
+  username:
+  password:
